@@ -50,7 +50,7 @@ async def check_subscription(message: types.Message):
             markup = types.InlineKeyboardMarkup(inline_keyboard=[
                 [types.InlineKeyboardButton(
                     text='Subscribe to the channel', 
-                    url='https://t.me/PlantsvsZombiesFusionLegend'
+                    url='https://t.me/fusionlegend/2'
                 )],
                 [types.InlineKeyboardButton(
                     text='Check subscription', 
